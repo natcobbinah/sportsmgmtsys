@@ -1,0 +1,13 @@
+.footerContent {
+  height: 20vh;
+  background-color: dimgray;
+}
+
+.icon{
+  display: inline-block;
+  border-radius: 50%;
+  background-color:white;
+  height:70px;
+  width:70px;
+  justify-content: center;
+}
